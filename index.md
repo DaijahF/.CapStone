@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
+## Portfolio
 
-You can use the [editor on GitHub](https://github.com/DaijahF/.CapStone/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Recent work
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+After completing 8 courses, I have completed a powerpoint presentation displaying the skills I have acquired:
 
-### Markdown
+**Structured Query Language (SQL)**
+**Microsoft Excel**
+**Critical Thinking**
+**R Programming**
+**Data Visualization**
+**Presentation Skills**
+**Machine Learning**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**My Topic** : [What are the contributing factors to the increase of U.S. domestic Airfare?](https://1drv.ms/p/s!AnNulqUPmssjiGK_wFaKyQfRSA_O?e=1zcx2w)
+
+### Resources
 
 ```markdown
-Syntax highlighted code block
+These are the tools that I used to complete my project:
+- Excel
+- Tableau
+- PowerPoint
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### Data Source
 
-### Jekyll Themes
+[Bureau of Transportation Statistics](https://www.bts.gov/)
+[Airline Employment](https://www.transtats.bts.gov/Employment/)
+[A Decade of Change in Fuel Prices](https://www.bts.gov/archive/publications/special_reports_and_issue_briefs/special_report/2012_03_33/entire)
+[Scheduled, Canceled and Operated Flights](https://www.bts.gov/topics/airlines-and-airports/scheduled-canceled-and-operated-flights-month-2019-2022-through-may)
+[Average Airfare](https://www.bts.gov/newsroom/first-quarter-2022-average-air-fare-increases-169-first-quarter-2021)
+[Passengers that boarded the top 50 US airports](https://www.bts.gov/content/passengers-boarded-top-50-us-airports)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DaijahF/.CapStone/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+If you have any further questions or concerns I can be contacted on-
+
+**LinkedIn** : Daijah Fletcher
+**Email** : daijah.fletcher96@gmail.com
