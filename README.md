@@ -4,13 +4,16 @@
 
 After completing 8 courses, I have completed a powerpoint presentation displaying the skills I have acquired:
 
-**Structured Query Language (SQL)**
-**Microsoft Excel**
-**Critical Thinking**
-**R Programming**
-**Data Visualization**
-**Presentation Skills**
-**Machine Learning**
+```markdown
+1.**Structured Query Language (SQL)**
+2.**Microsoft Excel**
+3.**Critical Thinking**
+4.**R Programming**
+5.**Data Visualization**
+6.**Presentation Skills**
+7.**Machine Learning**
+
+```
 
 **My Topic** : [What are the contributing factors to the increase of U.S. domestic Airfare?](https://1drv.ms/p/s!AnNulqUPmssjiGK_wFaKyQfRSA_O?e=1zcx2w)
 
@@ -26,12 +29,12 @@ These are the tools that I used to complete my project:
 
 ### Data Source
 
-[Bureau of Transportation Statistics](https://www.bts.gov/)
-[Airline Employment](https://www.transtats.bts.gov/Employment/)
-[A Decade of Change in Fuel Prices](https://www.bts.gov/archive/publications/special_reports_and_issue_briefs/special_report/2012_03_33/entire)
-[Scheduled, Canceled and Operated Flights](https://www.bts.gov/topics/airlines-and-airports/scheduled-canceled-and-operated-flights-month-2019-2022-through-may)
-[Average Airfare](https://www.bts.gov/newsroom/first-quarter-2022-average-air-fare-increases-169-first-quarter-2021)
-[Passengers that boarded the top 50 US airports](https://www.bts.gov/content/passengers-boarded-top-50-us-airports)
+-[Bureau of Transportation Statistics](https://www.bts.gov/)
+-[Airline Employment](https://www.transtats.bts.gov/Employment/)
+-[A Decade of Change in Fuel Prices](https://www.bts.gov/archive/publications/special_reports_and_issue_briefs/special_report/2012_03_33/entire)
+-[Scheduled, Canceled and Operated Flights](https://www.bts.gov/topics/airlines-and-airports/scheduled-canceled-and-operated-flights-month-2019-2022-through-may)
+-[Average Airfare](https://www.bts.gov/newsroom/first-quarter-2022-average-air-fare-increases-169-first-quarter-2021)
+-[Passengers that boarded the top 50 US airports](https://www.bts.gov/content/passengers-boarded-top-50-us-airports)
 
 
 ### Contact
