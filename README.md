@@ -38,5 +38,5 @@ These are the tools that I used to complete my project:
 
 If you have any further questions or concerns I can be contacted on-
 
-**LinkedIn** : Daijah Fletcher
+**LinkedIn** : [Daijah Fletcher](https://www.linkedin.com/in/daijah-fletcher-a87382115/)
 **Email** : daijah.fletcher96@gmail.com
