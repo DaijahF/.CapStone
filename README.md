@@ -29,12 +29,17 @@ These are the tools that I used to complete my project:
 
 ### Data Source
 
--[Bureau of Transportation Statistics](https://www.bts.gov/)
--[Airline Employment](https://www.transtats.bts.gov/Employment/)
--[A Decade of Change in Fuel Prices](https://www.bts.gov/archive/publications/special_reports_and_issue_briefs/special_report/2012_03_33/entire)
--[Scheduled, Canceled and Operated Flights](https://www.bts.gov/topics/airlines-and-airports/scheduled-canceled-and-operated-flights-month-2019-2022-through-may)
--[Average Airfare](https://www.bts.gov/newsroom/first-quarter-2022-average-air-fare-increases-169-first-quarter-2021)
--[Passengers that boarded the top 50 US airports](https://www.bts.gov/content/passengers-boarded-top-50-us-airports)
+1.[Bureau of Transportation Statistics](https://www.bts.gov/)
+
+2.[Airline Employment](https://www.transtats.bts.gov/Employment/)
+
+3.[A Decade of Change in Fuel Prices](https://www.bts.gov/archive/publications/special_reports_and_issue_briefs/special_report/2012_03_33/entire)
+
+4.[Scheduled, Canceled and Operated Flights](https://www.bts.gov/topics/airlines-and-airports/scheduled-canceled-and-operated-flights-month-2019-2022-through-may)
+
+5.[Average Airfare](https://www.bts.gov/newsroom/first-quarter-2022-average-air-fare-increases-169-first-quarter-2021)
+
+6.[Passengers that boarded the top 50 US airports](https://www.bts.gov/content/passengers-boarded-top-50-us-airports)
 
 
 ### Contact
