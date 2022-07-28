@@ -22,7 +22,7 @@ After completing 8 courses, I have completed a powerpoint presentation displayin
 ```markdown
 These are the tools that I used to complete my project:
 - Excel
-- [Tableau](https://public.tableau.com/views/AirfareData/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link)
+- Tableau
 - PowerPoint
 
 ```
@@ -41,6 +41,7 @@ These are the tools that I used to complete my project:
 
 6. [Passengers that boarded the top 50 US airports](https://www.bts.gov/content/passengers-boarded-top-50-us-airports)
 
+7. [Tableau](https://public.tableau.com/views/AirfareData/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ### Contact
 
