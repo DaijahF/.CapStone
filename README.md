@@ -5,13 +5,13 @@
 After completing 8 courses, I have completed a powerpoint presentation displaying the skills I have acquired:
 
 ```markdown
-1.**Structured Query Language (SQL)**
-2.**Microsoft Excel**
-3.**Critical Thinking**
-4.**R Programming**
-5.**Data Visualization**
-6.**Presentation Skills**
-7.**Machine Learning**
+1. Structured Query Language (SQL)
+2. Microsoft Excel
+3. Critical Thinking
+4. R Programming
+5. Data Visualization
+6. Presentation Skills
+7. Machine Learning
 
 ```
 
